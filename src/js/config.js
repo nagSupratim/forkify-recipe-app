@@ -7,5 +7,5 @@ export const RESULTS_PER_PAGE = 10;
 export const MODAL_CLOSE_SEC = 2.5;
 
 export const URL_LINKEDIN = 'https://www.linkedin.com/in/nagsupratim/';
-export const URL_GITHUB = 'https://github.com/nagSupratim/mapty-app';
+export const URL_GITHUB = 'https://github.com/nagSupratim/forkify-recipe-app';
 export const URL_EMAIL = 'mailto:' + 'supratimnag1997@gmail.com';
